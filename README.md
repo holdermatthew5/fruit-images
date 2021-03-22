@@ -1,7 +1,7 @@
 **Author:** Matthew Holder
 **Version:** 0.1.1
 
-[PR](https://github.com/holdermatthew5/fruit_images/pull/2#issue-597123076)
+[PR](https://github.com/holdermatthew5/fruit_images/pull/3#issue-597711778)
 
 ## Problem Domain:
 
@@ -14,4 +14,4 @@ When I do finally have this entire dataset uploaded I'll be able to use this API
 
 ## Referenced
 
-The [code]() in set_superuser.py was copied from [Brachamul](https://gist.github.com/Brachamul). It is intended to give/revoke users admin and staff priviliges in order to enable them to carry permission to use views with `IsAdminUser` permission settings.
+The [code](https://gist.github.com/Brachamul/f41ee36ae2b127b99fdfd1e81d4b9f6e) in set_superuser.py was copied from [Brachamul](https://gist.github.com/Brachamul). It is intended to give/revoke users admin and staff priviliges in order to enable them to carry permission to use views with `IsAdminUser` permission settings.
