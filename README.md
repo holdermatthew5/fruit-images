@@ -11,3 +11,7 @@ Use Django REST Framework to create an API, then “containerize” it with Dock
 
 This API is intended to provide images of fruit. We start with just 4 Braeburn Apples today, but once I've found a way to automate the uploading of the rest of this dataset I found I'll be able to upload the rest of the images of braeburn apples and move onto the images of all the other fruit (it's extensive).  
 When I do finally have this entire dataset uploaded I'll be able to use this API to train a fruit recognition API which will advance me in my goal to create a scalable automated farm.  
+
+## Referenced
+
+The [code]() in set_superuser.py was copied from [Brachamul](https://gist.github.com/Brachamul). It is intended to give/revoke users admin and staff priviliges in order to enable them to carry permission to use views with `IsAdminUser` permission settings.
