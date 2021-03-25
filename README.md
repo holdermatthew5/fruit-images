@@ -1,7 +1,7 @@
 **Author:** Matthew Holder
 **Version:** 0.1.1
 
-[PR](https://github.com/holdermatthew5/fruit_images/pull/3#issue-597711778)
+[PR](https://github.com/holdermatthew5/fruit_images/pull/4#issue-600405011)
 
 ## Problem Domain:
 
